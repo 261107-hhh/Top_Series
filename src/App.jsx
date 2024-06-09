@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import Card from './AppHtml.jsx'
-import Cdata from './Links'
 
 const App = () => {
 
