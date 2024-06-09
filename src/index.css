@@ -389,6 +389,14 @@ button{
   background-color: #c4c6c7;
 }
 
+
+/* .heading, h1{
+  position: fixed;
+  display: block;
+  width: 100%;
+  padding: 20px;
+  margin-bottom:30px;
+} */
 .heading{
   text-align: center;
   text-transform: uppercase;
@@ -400,7 +408,13 @@ button{
   color: #c4c6c7;
   padding: 20px;
   margin-bottom:30px;
+
 }
+/* 
+.bodycardF{
+  margin-top: 0%;
+
+} */
 
 .cards{
   width: 100%;
